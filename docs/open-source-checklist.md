@@ -10,11 +10,11 @@ This checklist is designed to be practical and easy to review. It separates **re
 
 | Section | Requirement Level | Status | Notes |
 |---|---|---|---|
-| Essential Requirements | Required | Pending | Must be completed before public release |
-| Data Management (Git LFS) | Required if applicable | Pending | Only if repository contains large files |
-| Optional but Recommended Files | Recommended | Pending | Strongly encouraged for public/community repos |
-| Quality Checks | Required | Pending | Final review before publishing |
-| Final Steps | Required | Pending | Verify repository works from a fresh clone |
+| [Essential Requirements](#essential-requirements-required) | Required | Pending | Must be completed before public release |
+| [Data Management (Git LFS)](#data-management-required-if-applicable) | Required if applicable | Pending | Only if repository contains large files |
+| [Optional but Recommended Files](#optional-but-recommended-files-recommended) | Recommended | Pending | Strongly encouraged for public/community repos |
+| [Quality Checks](#quality-checks-required) | Required | Pending | Final review before publishing |
+| [Final Steps](#final-steps-required) | Required | Pending | Verify repository works from a fresh clone |
 
 ---
 
