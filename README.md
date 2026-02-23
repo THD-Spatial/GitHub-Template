@@ -17,6 +17,7 @@ Use the open-source readiness checklist before publishing a repository under `TH
 - **Checklist:** [Open Source Checklist](docs/open-source-checklist.md)
 
 The checklist covers:
+
 - essential repository files (license, README, contributing, code of conduct)
 - Git LFS setup for large files
 - optional but recommended files
@@ -38,6 +39,7 @@ All repositories under `THD-Spatial` should follow a consistent naming conventio
 > Repositories under `THD-Spatial` must include a `LICENSE` file before being made public.
 
 Useful resource:
+
 - [Choose a License](https://choosealicense.com/)
 
 ### README (required)
@@ -46,6 +48,7 @@ Useful resource:
 > Every repository must include a `README.md` file that explains the project purpose, setup, and usage.
 
 At minimum, the README should include:
+
 - project title and description
 - purpose / scope
 - installation and usage instructions
@@ -62,6 +65,7 @@ At minimum, the README should include:
 > A `CODE_OF_CONDUCT.md` file helps set expectations for respectful collaboration and creates a welcoming project environment.
 
 A common choice:
+
 - [Contributor Covenant](https://www.contributor-covenant.org/)
 
 ## Git LFS for large files
