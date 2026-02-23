@@ -9,7 +9,6 @@ This checklist is designed to be practical and easy to review. It separates **re
 ## Review Summary
 
 | Section | Requirement Level | Status | Notes |
-
 |---|---|---|---|
 | Essential Requirements | Required | Pending | Must be completed before public release |
 | Data Management (Git LFS) | Required if applicable | Pending | Only if repository contains large files |
