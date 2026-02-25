@@ -17,7 +17,7 @@ This repository is a template for projects under the `THD-Spatial` GitHub group.
 
 Use the open-source readiness checklist before publishing a repository under `THD-Spatial`.
 
-- **Checklist:** [Open Source Checklist](docs/open-source-checklist.md)
+- **Checklist:** [Open Source Checklist](docs/getting-started/open-source-checklist.md)
 
 The checklist covers:
 
@@ -30,7 +30,7 @@ The checklist covers:
 
 All repositories under `THD-Spatial` should follow a consistent naming convention.
 
-- **Guidelines:** [Repository Naming Guidelines](docs/repository-naming.md)
+- **Guidelines:** [Repository Naming Guidelines](docs/getting-started/repository-naming.md)
 
 ## Required files for public repositories
 
